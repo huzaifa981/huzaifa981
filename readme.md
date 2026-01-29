@@ -1,3 +1,9 @@
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee%20Spice&size=23&pause=1000&color=920202&width=435&lines=I'm%20a%20full%20stack%20developer&center=true&vCenter=true&repeat=true)
+
+</div>
+
 # 💫 About Me:
 Full-Stack & Multi-Platform Developer | Creative Technologist
 
