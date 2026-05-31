@@ -14,7 +14,7 @@ I'm a passionate full-stack developer with over 2+ years of experience building 
 ⚡ Beyond code: I combine development with creativity — experienced in WordPress/PHP, Blender 3D modeling, Unity Engine, and technical content writing.
 👨‍💻 All of my projects are available at <a href="https://github.com/huzaifa981" target="_blank">GitHub</a> <br>
 📄 Know about my experiences from my<a href="https://huzaifa-bin-khalid.netlify.app/" target="_blank">Portfolio</a><br>
-📫 How to reach me via <a href="guest73blog@gmail.com">Contact E-mail</a> OR <a href="https://wa.me/923349270383" target="_blank">Whatsapp</a><br>
+📫 How to reach me via <a href="guest73blog@gmail.com">Contact E-mail</a> OR <a href="https://wa.me/923161591241" target="_blank">Whatsapp</a><br>
 
 I thrive at the intersection of technology and creativity, whether it's crafting pixel-perfect UIs, designing efficient databases, or bringing 3D concepts to life.<br>
 
